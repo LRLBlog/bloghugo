@@ -1,0 +1,4 @@
+[submodule "lrlblog.github.io"]
+	path = lrlblog.github.io
+	url = git@github.com:LRLBlog/lrlblog.github.io.git
+	branch = master
